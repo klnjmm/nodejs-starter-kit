@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-template",
+  "version": "1.0.0",
+  "description": "Template for nodejs project",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest"
+  },
+  "author": "Jimmy KLEIN",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.43.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "jest": "^29.5.0"
+  }
+}
